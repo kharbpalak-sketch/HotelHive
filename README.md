@@ -103,9 +103,10 @@ python server.py
 
 **Palak Kharb**  
 Data Analyst | Skilled in Python, SQL & Data Handling  
+
 ---
 
 ## 📌 Note
 
-This project is built to showcase real-world backend development skills, including Python–SQL connectivity, data handling, and CRUD operations.
+This project showcases real-world backend development skills, including Python–SQL connectivity, efficient data handling, and CRUD operations.
 ---
